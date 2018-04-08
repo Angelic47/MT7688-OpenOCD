@@ -1,0 +1,2 @@
+# MT7688-OpenOCD
+OpenOCD configuration for MT7688AN/MT7688KN/MT7628x
